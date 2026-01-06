@@ -17,7 +17,7 @@
 <a href="https://twitter.com/Yuvraj Dhadhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yuvraj Dhadhal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Yuvraj Dhadhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yuvraj Dhadhal" height="30" width="40" /></a>
 <a href="https://fb.com/Yuvraj Dhadhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yuvraj Dhadhal" height="30" width="40" /></a>
-<a href="https://instagram.com/bhoomingorasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhoomingorasiya" height="30" width="40" /></a>
+<a href="https://instagram.com/yuvraj___dhadhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhoomingorasiya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
