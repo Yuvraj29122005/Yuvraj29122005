@@ -69,12 +69,7 @@ src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yuvraj29122005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yuvraj29122005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj29122005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=Yuvraj29122005&icon=4&color=4)](https://visitcount.itsvg.in)
 
 
 <h3 align="left">☕ Support Me:</h3>
