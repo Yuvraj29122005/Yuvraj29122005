@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Yuvraj Dhadhal 
-  | <a href="https://gamma.app/docs/Yuvraj-Dhadhal-8zhbc8fkv18v531?mode=doc" target="_blank">
+  | <a 
     🌐 Portfolio (Click Here)
   </a>
 </h1>
