@@ -44,7 +44,7 @@ src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
     height="30" width="40" />
   </a>
 
-  <a href="https://www.instagram.com/yuvraj___dhadhal/" target="_blank">
+  <a href="https://www.instagram.com/yuvraj_dhadhall/" target="_blank">
     <img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
     height="30" width="40" />
